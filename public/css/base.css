@@ -7,3 +7,9 @@ body {background-color: #ecf0f1;
 	background-color: white;
 	box-shadow: 5px 5px rgba(0, 0, 0, 0.1);
 }
+
+p.quote{
+	font-weight: 200;
+	font-style: italic;
+	font-size: size 1.5rem;
+}
