@@ -6,10 +6,18 @@ body {background-color: #ecf0f1;
 	padding: 20px;
 	background-color: white;
 	box-shadow: 5px 5px rgba(0, 0, 0, 0.1);
+	text-align: center;
 }
 
 p.quote{
 	font-weight: 200;
 	font-style: italic;
 	font-size: size 1.5rem;
+}
+
+img{
+	border-radius: 50%;
+	border: 5px solid #ecf0f1;
+	width: 50%;
+	max-width: 150px;
 }
