@@ -7,6 +7,7 @@ body {background-color: #ecf0f1;
 	background-color: white;
 	box-shadow: 5px 5px rgba(0, 0, 0, 0.1);
 	text-align: center;
+
 }
 
 p.quote{
@@ -20,4 +21,16 @@ img{
 	border: 5px solid #ecf0f1;
 	width: 50%;
 	max-width: 150px;
+}
+
+a:link {
+	color: #ecf0f1;
+}
+
+a:hover {
+	color: #2980b9;
+}
+
+a:visited {
+	color: #ecf0f1;
 }
